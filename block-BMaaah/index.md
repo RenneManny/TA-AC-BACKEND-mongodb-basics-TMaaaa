@@ -3,7 +3,7 @@ writeCode
 Write code to execute below expressions.
 
 1. Create a database named `blog`.
-2. Create a collection called 'articles'.
+2. Create a collection called 'art icles'.
 3. Insert multiple documents(at least 3) into articles. It should have fields
 
 - title as string
