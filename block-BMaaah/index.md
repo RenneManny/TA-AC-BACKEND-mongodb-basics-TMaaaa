@@ -10,7 +10,7 @@ Write code to execute below expressions.
 - createdAt as date
 - details as String
 - author as nested object
-  - author should have
+  - author should  have
     - name
     - email
     - age
